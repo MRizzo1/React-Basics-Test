@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNeLNFkMKlZWyAHuVjoTBrT94Zioo6xQHK2Qp7oxk9NU3Hj7jgJptH7uajV0mTqwlntisew0VEHgALYt67oLEA==",
+  "success": true,
+  "projectFilePath": "/home/mariangela/Documentos/React-Basics-Test/ReactBasicsPP/ReactBasicsPP.csproj",
+  "expectedPackageFiles": [
+    "/home/mariangela/.nuget/packages/microsoft.aspnetcore.spaproxy/6.0.3/microsoft.aspnetcore.spaproxy.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
